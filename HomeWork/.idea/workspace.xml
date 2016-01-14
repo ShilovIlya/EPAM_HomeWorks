@@ -7,7 +7,7 @@
     <file path="/Main.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448307070101" ignored="false" />
     <file path="/t01Main.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448307171010" ignored="false" />
     <file path="/MinN.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448484807298" ignored="false" />
-    <file path="/fragment.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1449581473607" ignored="false" />
+    <file path="/fragment.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1451754379686" ignored="false" />
     <file path="/FxTable.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448484889060" ignored="false" />
     <file path="/MaxSum2InArr.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448630571479" ignored="false" />
     <file path="/Xmatrix.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448486072939" ignored="false" />
@@ -15,7 +15,7 @@
     <file path="/Notebook.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448631706807" ignored="false" />
     <file path="/WorkWithNotebook.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448453687041" ignored="false" />
     <file path="/Tests.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448632518341" ignored="false" />
-    <file path="/Dummy.txt" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1449581473607" ignored="false" />
+    <file path="/Dummy.txt" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1451753382705" ignored="false" />
     <file path="/Pen.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1449248210305" ignored="false" />
     <file path="/PenTest.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1449247820785" ignored="false" />
     <file path="/WritingGoods.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1449237462410" ignored="false" />
@@ -41,6 +41,27 @@
     <file path="/NuclearSubmarine.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1449583518345" ignored="false" />
     <file path="/NuclearSubmarineTest.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1449581433465" ignored="false" />
     <file path="/LowFunctional.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1449583570284" ignored="false" />
+    <file path="/CrazyLogger.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1451757209190" ignored="false" />
+    <file path="$PROJECT_DIR$/src/javase03/CrazyLogger.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1451590291675" ignored="false" />
+    <file path="/CrazyLoggerTest.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1451757127277" ignored="false" />
+    <file path="/a.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1451826141196" ignored="false" />
+    <file path="/I18nQuestions.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1451820591411" ignored="false" />
+    <file path="/ru_RU" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1451816181989" ignored="false" />
+    <file path="/L10nQuestions.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1452766499926" ignored="false" />
+    <file path="/prop.properties" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1451820228341" ignored="false" />
+    <file path="/prop_en.properties" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1452766076256" ignored="false" />
+    <file path="/prop_ru.properties" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1451821868404" ignored="false" />
+    <file path="/RegexpTask.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1452763393379" ignored="false" />
+    <file path="/sample.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1451826192642" ignored="false" />
+    <file path="/a.html" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1451826217803" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/dictionaries/Ilya.xml" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1451993953265" ignored="false" />
+    <file path="/Dummy.regexp" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1451827668270" ignored="false" />
+    <file path="/JavaFileAnalayzer.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1451998648596" ignored="false" />
+    <file path="/JavaFileAnalayzerSymb.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1452003668989" ignored="false" />
+    <file path="/JavaFileAnalayzerByte.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1452003702096" ignored="false" />
+    <file path="/UTFFrom8to16.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1452005560949" ignored="false" />
+    <file path="/FilmSerializable.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1452012433839" ignored="false" />
+    <file path="/FilmCollection.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1452010225913" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,94 +122,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AppWorkPlace.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javase02/t02/AppWorkPlace.java">
+      <file leaf-file-name="L10nQuestions.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase03/t02/L10nQuestions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="49" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0">
+            <state line="49" column="49" selection-start="1349" selection-end="1349" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WorkPlace.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javase02/t02/WorkPlace.java">
+      <file leaf-file-name="CrazyLogger.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase03/t01/CrazyLogger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="29" selection-start="1573" selection-end="1573" vertical-scroll-proportion="0.0">
+            <state line="27" column="72" selection-start="819" selection-end="819" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppStudentSubject.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javase02/t05/AppStudentSubject.java">
+      <file leaf-file-name="RegexpTask.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase03/t03/RegexpTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="22" selection-end="22" vertical-scroll-proportion="0.047486033">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#171#180#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayList.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="652" column="0" selection-start="23970" selection-end="23970" vertical-scroll-proportion="0.0">
+            <state line="46" column="62" selection-start="1676" selection-end="1676" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubjectName.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javase02/t05/SubjectName.java">
+      <file leaf-file-name="CrazyLoggerTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase03/test/t01/CrazyLoggerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
+            <state line="21" column="52" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Subject.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javase02/t05/Subject.java">
+      <file leaf-file-name="PenTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javase02/test/t01/PenTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="18" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0">
+            <state line="30" column="41" selection-start="830" selection-end="830" vertical-scroll-proportion="0.7959866">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NuclearSubmarine.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javase02/t06/NuclearSubmarine.java">
+      <file leaf-file-name="prop.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/prop.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="37" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0">
+            <state line="11" column="38" selection-start="439" selection-end="439" vertical-scroll-proportion="-7.48">
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LowFunctional.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javase02/t07/LowFunctional.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="38" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
+          <provider editor-type-id="ResourceBundle">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NuclearSubmarineTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javase02/test/t06/NuclearSubmarineTest.java">
+      <file leaf-file-name="prop_en.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/prop_en.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="55" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0">
+            <state line="3" column="39" selection-start="149" selection-end="149" vertical-scroll-proportion="-2.04">
               <folding />
             </state>
           </provider>
+          <provider editor-type-id="ResourceBundle">
+            <state />
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="OfficeGoodsComparatorByPriceAndName.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javase02/t04/OfficeGoodsComparatorByPriceAndName.java">
+      <file leaf-file-name="prop_ru.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/prop_ru.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="70" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0">
+            <state line="3" column="151" selection-start="534" selection-end="534" vertical-scroll-proportion="-2.04">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="ResourceBundle">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Matcher.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/regex/Matcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="537" column="0" selection-start="18941" selection-end="18941" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -204,22 +222,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/javase02/t02/WorkerPlace.java" />
-        <option value="$PROJECT_DIR$/src/javase02/t03/OfficeGoods.java" />
-        <option value="$PROJECT_DIR$/src/javase02/t02/WorkPlace.java" />
-        <option value="$PROJECT_DIR$/src/javase02/t02/AppWorkPlace.java" />
-        <option value="$PROJECT_DIR$/src/javase02/test/t03/OfficeGoodsTest.java" />
-        <option value="$PROJECT_DIR$/src/javase02/t04/OfficeGoodsComparatorByPrice.java" />
-        <option value="$PROJECT_DIR$/src/javase02/t03/BeginnerSet.java" />
-        <option value="$PROJECT_DIR$/src/javase02/t04/OfficeGoodsComparatorByName.java" />
-        <option value="$PROJECT_DIR$/src/javase02/t04/OfficeGoodsComparatorByPriceAndName.java" />
-        <option value="$PROJECT_DIR$/src/javase02/test/t04/OfficeGoodsComparatorTest.java" />
-        <option value="$PROJECT_DIR$/src/javase02/t05/SubjectName.java" />
-        <option value="$PROJECT_DIR$/src/javase02/test/t06/NuclearSubmarineTest.java" />
-        <option value="$PROJECT_DIR$/src/javase02/t07/LowFunctional.java" />
-        <option value="$PROJECT_DIR$/src/javase02/t06/NuclearSubmarine.java" />
-        <option value="$PROJECT_DIR$/src/javase02/t05/Subject.java" />
-        <option value="$PROJECT_DIR$/src/javase02/t05/AppStudentSubject.java" />
+        <option value="$PROJECT_DIR$/src/javase03/t02/ru_RU" />
+        <option value="$PROJECT_DIR$/src/javase03/t02/I18nQuestions.java" />
+        <option value="$PROJECT_DIR$/src/javase03/t02/prop.properties" />
+        <option value="$PROJECT_DIR$/src/javase03/t02/prop_en.properties" />
+        <option value="$PROJECT_DIR$/src/javase03/t02/prop_ru.properties" />
+        <option value="$PROJECT_DIR$/src/javase04/t01/JavaFileAnalayzer.java" />
+        <option value="$PROJECT_DIR$/src/javase04/t02/JavaFileAnalayzerSymb.java" />
+        <option value="$PROJECT_DIR$/src/javase04/t01/JavaFileAnalayzerByte.java" />
+        <option value="$PROJECT_DIR$/src/javase04/t03/UTFFrom8to16.java" />
+        <option value="$PROJECT_DIR$/src/javase04/t04/FilmCollection.java" />
+        <option value="$PROJECT_DIR$/src/javase04/t04/FilmSerializable.java" />
+        <option value="$PROJECT_DIR$/src/javase03/t03/RegexpTask.java" />
+        <option value="$PROJECT_DIR$/src/resources/prop_en.properties" />
+        <option value="$PROJECT_DIR$/src/resources/prop_ru.properties" />
+        <option value="$PROJECT_DIR$/src/resources/prop.properties" />
+        <option value="$PROJECT_DIR$/src/javase03/t02/L10nQuestions.java" />
       </list>
     </option>
   </component>
@@ -237,15 +255,26 @@
             <id />
           </State>
           <State>
-            <id>General</id>
+            <id>Class structure</id>
           </State>
           <State>
-            <id>XPath</id>
+            <id>Java language level issues</id>
           </State>
           <State>
-            <id>XSLT</id>
+            <id>Java language level migration aids</id>
+          </State>
+          <State>
+            <id>Modularization issues</id>
+          </State>
+          <State>
+            <id>Numeric issues</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -275,8 +304,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -308,24 +337,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javase02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HomeWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HomeWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -336,10 +347,10 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.main.proportions" value="0.19" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="Errors" />
+    <property name="options.lastSelected" value="File.Encoding" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/javase01/test" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -349,7 +360,7 @@
     <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.details.proportions" value="0.30569947" />
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
@@ -357,14 +368,20 @@
       <recent name="javase02.t03" />
       <recent name="javase01.t03" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\EPAM\HomeWork\src\resources" />
+      <recent name="D:\GitHub\EPAM\HomeWork\src" />
+      <recent name="D:\GitHub\EPAM\HomeWork\src\javase03\t03" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub\EPAM\HomeWork\src\javase03\t02\resources" />
       <recent name="D:\GitHub\EPAM\HomeWork\src\javase01\t01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AppStudentSubject">
-    <configuration default="false" name="MaxSum2InArr" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.L10nQuestions">
+    <configuration default="false" name="JavaFileAnalayzerSymb" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="javase01.t04.MaxSum2InArr" />
+      <option name="MAIN_CLASS_NAME" value="javase04.t02.JavaFileAnalayzerSymb" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -379,9 +396,9 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Xmatrix" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="UTFFrom8to16" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="javase01.t05.Xmatrix" />
+      <option name="MAIN_CLASS_NAME" value="javase04.t03.UTFFrom8to16" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -396,26 +413,9 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Tests" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="FilmSerializable" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="javase01.test.Tests" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="HomeWork" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="AppWorkPlace" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="javase02.t02.AppWorkPlace" />
+      <option name="MAIN_CLASS_NAME" value="javase04.t04.FilmSerializable" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -430,9 +430,26 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="AppStudentSubject" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="RegexpTask" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="javase02.t05.AppStudentSubject" />
+      <option name="MAIN_CLASS_NAME" value="javase03.t03.RegexpTask" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="HomeWork" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="L10nQuestions" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="javase03.t02.L10nQuestions" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -529,14 +546,14 @@
     <configuration default="false" name="javase02 in HomeWork" type="JUnit" factoryName="JUnit">
       <module name="HomeWork" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="PACKAGE_NAME" value="javase02" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -544,41 +561,19 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="PenTest" type="JUnit" factoryName="JUnit">
-      <module name="HomeWork" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="javase02.test" />
-      <option name="MAIN_CLASS_NAME" value="javase02.test.PenTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
     <configuration default="false" name="OfficeGoodsTest" type="JUnit" factoryName="JUnit">
       <module name="HomeWork" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="PACKAGE_NAME" value="javase02.test.t03" />
       <option name="MAIN_CLASS_NAME" value="javase02.test.t03.OfficeGoodsTest" />
-      <option name="METHOD_NAME" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -593,14 +588,14 @@
     <configuration default="false" name="OfficeGoodsComparatorTest" type="JUnit" factoryName="JUnit">
       <module name="HomeWork" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="PACKAGE_NAME" value="javase02.test.t04" />
       <option name="MAIN_CLASS_NAME" value="javase02.test.t04.OfficeGoodsComparatorTest" />
-      <option name="METHOD_NAME" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -615,9 +610,53 @@
     <configuration default="false" name="NuclearSubmarineTest" type="JUnit" factoryName="JUnit">
       <module name="HomeWork" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="PACKAGE_NAME" value="javase02.test.t06" />
       <option name="MAIN_CLASS_NAME" value="javase02.test.t06.NuclearSubmarineTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="javase03.test.t01 in HomeWork" type="JUnit" factoryName="JUnit">
+      <module name="HomeWork" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="javase03.test.t01" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CrazyLoggerTest" type="JUnit" factoryName="JUnit">
+      <module name="HomeWork" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="javase03.test.t01" />
+      <option name="MAIN_CLASS_NAME" value="javase03.test.t01.CrazyLoggerTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -634,27 +673,28 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="12">
+    <list size="13">
       <item index="0" class="java.lang.String" itemvalue="JUnit.Test" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.Tests" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.javase02 in HomeWork" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.PenTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.OfficeGoodsTest" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.OfficeGoodsComparatorTest" />
-      <item index="6" class="java.lang.String" itemvalue="JUnit.NuclearSubmarineTest" />
-      <item index="7" class="java.lang.String" itemvalue="Application.MaxSum2InArr" />
-      <item index="8" class="java.lang.String" itemvalue="Application.Xmatrix" />
-      <item index="9" class="java.lang.String" itemvalue="Application.Tests" />
-      <item index="10" class="java.lang.String" itemvalue="Application.AppWorkPlace" />
-      <item index="11" class="java.lang.String" itemvalue="Application.AppStudentSubject" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.OfficeGoodsTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.OfficeGoodsComparatorTest" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.NuclearSubmarineTest" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.javase03.test.t01 in HomeWork" />
+      <item index="7" class="java.lang.String" itemvalue="JUnit.CrazyLoggerTest" />
+      <item index="8" class="java.lang.String" itemvalue="Application.JavaFileAnalayzerSymb" />
+      <item index="9" class="java.lang.String" itemvalue="Application.UTFFrom8to16" />
+      <item index="10" class="java.lang.String" itemvalue="Application.FilmSerializable" />
+      <item index="11" class="java.lang.String" itemvalue="Application.RegexpTask" />
+      <item index="12" class="java.lang.String" itemvalue="Application.L10nQuestions" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.AppStudentSubject" />
-        <item index="1" class="java.lang.String" itemvalue="Application.AppWorkPlace" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Tests" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Xmatrix" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MaxSum2InArr" />
+        <item index="0" class="java.lang.String" itemvalue="Application.L10nQuestions" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RegexpTask" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FilmSerializable" />
+        <item index="3" class="java.lang.String" itemvalue="Application.UTFFrom8to16" />
+        <item index="4" class="java.lang.String" itemvalue="Application.JavaFileAnalayzerSymb" />
       </list>
     </recent_temporary>
   </component>
@@ -686,23 +726,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.6967632" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32027256" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33730835" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23106061" sideWeight="0.6899489" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3100511" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2128788" sideWeight="0.58943784" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4105622" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -775,112 +816,118 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/javase02/t03/Pen.java">
+    <entry file="file://$PROJECT_DIR$/src/javase04/t02/JavaFileAnalayzerSymb.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="62" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" />
+        <state line="51" column="53" selection-start="1935" selection-end="1935" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase02/t03/OfficeGoods.java">
+    <entry file="file://$PROJECT_DIR$/src/resources/8.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="46" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0" />
+        <state line="0" column="54" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase02/t04/OfficeGoodsComparatorByName.java">
+    <entry file="file://$PROJECT_DIR$/src/resources/16.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="40" selection-start="116" selection-end="151" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase02/t04/OfficeGoodsComparatorByPrice.java">
+    <entry file="file://$PROJECT_DIR$/src/javase04/t03/UTFFrom8to16.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="8" selection-start="222" selection-end="409" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="8" column="74" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase02/test/t04/OfficeGoodsComparatorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/javase04/t04/FilmSerializable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="56" selection-start="1090" selection-end="1090" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase02/test/t06/NuclearSubmarineTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="55" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase02/t07/LowFunctional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="38" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase02/t06/NuclearSubmarine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="37" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase02/t04/OfficeGoodsComparatorByPriceAndName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="70" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1356" column="18" selection-start="50131" selection-end="50131" vertical-scroll-proportion="0.33333334">
-          <folding />
+        <state line="83" column="61" selection-start="2464" selection-end="2464" vertical-scroll-proportion="0.15151516">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javase02/t02/AppWorkPlace.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="49" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="17" column="45" selection-start="501" selection-end="501" vertical-scroll-proportion="0.030303031" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase02/t02/WorkPlace.java">
+    <entry file="file://$PROJECT_DIR$/src/javase04/t04/FilmCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="29" selection-start="1573" selection-end="1573" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase02/t05/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="18" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase02/t05/SubjectName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="652" column="0" selection-start="23970" selection-end="23970" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase02/t05/AppStudentSubject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="22" selection-end="22" vertical-scroll-proportion="0.047486033">
+        <state line="18" column="48" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#171#180#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/regex/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="537" column="0" selection-start="18941" selection-end="18941" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/prop.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="38" selection-start="439" selection-end="439" vertical-scroll-proportion="-7.48">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/prop_en.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="39" selection-start="149" selection-end="149" vertical-scroll-proportion="-2.04">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/prop_ru.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="151" selection-start="534" selection-end="534" vertical-scroll-proportion="-2.04">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase03/t02/L10nQuestions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="49" selection-start="1349" selection-end="1349" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase03/t01/CrazyLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="72" selection-start="819" selection-end="819" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase03/t03/RegexpTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="62" selection-start="1676" selection-end="1676" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase03/test/t01/CrazyLoggerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="52" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase02/test/t01/PenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="41" selection-start="830" selection-end="830" vertical-scroll-proportion="0.7959866">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -958,6 +1005,17 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
