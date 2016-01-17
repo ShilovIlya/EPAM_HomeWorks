@@ -7,7 +7,7 @@
     <file path="/Main.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448307070101" ignored="false" />
     <file path="/t01Main.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448307171010" ignored="false" />
     <file path="/MinN.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448484807298" ignored="false" />
-    <file path="/fragment.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1452865839460" ignored="false" />
+    <file path="/fragment.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453048135261" ignored="false" />
     <file path="/FxTable.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448484889060" ignored="false" />
     <file path="/MaxSum2InArr.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448630571479" ignored="false" />
     <file path="/Xmatrix.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448486072939" ignored="false" />
@@ -15,7 +15,7 @@
     <file path="/Notebook.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448631706807" ignored="false" />
     <file path="/WorkWithNotebook.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448453687041" ignored="false" />
     <file path="/Tests.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448632518341" ignored="false" />
-    <file path="/Dummy.txt" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1452865839460" ignored="false" />
+    <file path="/Dummy.txt" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453048135261" ignored="false" />
     <file path="/Pen.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1449248210305" ignored="false" />
     <file path="/PenTest.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1449247820785" ignored="false" />
     <file path="/WritingGoods.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1449237462410" ignored="false" />
@@ -70,6 +70,7 @@
     <file path="/PropertiesReader.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453033546076" ignored="false" />
     <file path="/PropertiesReaderTest.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453033180949" ignored="false" />
     <file path="/my.txt" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1452865819471" ignored="false" />
+    <file path="/MapPropertiesReader.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453049488247" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,10 +131,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PropertiesReader.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javase05/t02/PropertiesReader.java">
+      <file leaf-file-name="MapPropertiesReader.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javase06/t02/MapPropertiesReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="32" selection-start="1031" selection-end="1031" vertical-scroll-proportion="0.0">
+            <state line="6" column="62" selection-start="158" selection-end="158" vertical-scroll-proportion="0.25">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapPropertiesReaderTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase06/test/t02/MapPropertiesReaderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="48" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -141,19 +151,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DirectoryManager.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javase05/t01/DirectoryManager.java">
+      <file leaf-file-name="my.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/my.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="83" selection-start="554" selection-end="554" vertical-scroll-proportion="0.049853373">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PropertiesReaderTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javase05/test/t02/PropertiesReaderTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
+            <state line="6" column="4" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -169,9 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/javase04/t04/FilmCollection.java" />
-        <option value="$PROJECT_DIR$/src/javase04/t04/FilmSerializable.java" />
-        <option value="$PROJECT_DIR$/src/javase03/t03/RegexpTask.java" />
         <option value="$PROJECT_DIR$/src/resources/prop_en.properties" />
         <option value="$PROJECT_DIR$/src/resources/prop_ru.properties" />
         <option value="$PROJECT_DIR$/src/resources/prop.properties" />
@@ -182,9 +180,12 @@
         <option value="$PROJECT_DIR$/src/javase05/t01/ControlKeyException.java" />
         <option value="$PROJECT_DIR$/src/javase05/t01/DirectoryManager.java" />
         <option value="$PROJECT_DIR$/my.txt" />
-        <option value="$PROJECT_DIR$/src/resources/my.properties" />
         <option value="$PROJECT_DIR$/src/javase05/t02/PropertiesReader.java" />
         <option value="$PROJECT_DIR$/src/javase05/test/t02/PropertiesReaderTest.java" />
+        <option value="$PROJECT_DIR$/src/javase06/test/t02/MapPropertiesReader.java" />
+        <option value="$PROJECT_DIR$/src/resources/my.properties" />
+        <option value="$PROJECT_DIR$/src/javase06/t02/MapPropertiesReader.java" />
+        <option value="$PROJECT_DIR$/src/javase06/test/t02/MapPropertiesReaderTest.java" />
       </list>
     </option>
   </component>
@@ -289,6 +290,24 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -331,7 +350,7 @@
       <recent name="D:\GitHub\EPAM\HomeWork\src\javase01\t01" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PropertiesReaderTest">
+  <component name="RunManager" selected="JUnit.MapPropertiesReaderTest">
     <configuration default="false" name="UTFFrom8to16" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="javase04.t03.UTFFrom8to16" />
@@ -648,7 +667,29 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="14">
+    <configuration default="false" name="MapPropertiesReaderTest" type="JUnit" factoryName="JUnit">
+      <module name="HomeWork" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="javase06.test.t02" />
+      <option name="MAIN_CLASS_NAME" value="javase06.test.t02.MapPropertiesReaderTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="15">
       <item index="0" class="java.lang.String" itemvalue="JUnit.Test" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.Tests" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.javase02 in HomeWork" />
@@ -663,6 +704,7 @@
       <item index="11" class="java.lang.String" itemvalue="Application.RegexpTask" />
       <item index="12" class="java.lang.String" itemvalue="Application.L10nQuestions" />
       <item index="13" class="java.lang.String" itemvalue="Application.DirectoryManager" />
+      <item index="14" class="java.lang.String" itemvalue="JUnit.MapPropertiesReaderTest" />
     </list>
     <recent_temporary>
       <list size="5">
@@ -737,8 +779,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21515152" sideWeight="0.62521297" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37478706" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21515152" sideWeight="0.73935264" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26064736" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -812,36 +854,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/io/BufferedReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="489" column="16" selection-start="16207" selection-end="16207" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase03/t03/RegexpTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="54" selection-start="1090" selection-end="1132" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/io/BufferedWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="241" column="16" selection-start="7486" selection-end="7493" vertical-scroll-proportion="0.3316583" />
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="200" column="31" selection-start="8219" selection-end="8221" vertical-scroll-proportion="0.33333334" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase05/t01/FileManagerException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="36" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase05/t01/ControlKeyException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="21" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javase05/t01/FileManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="118" column="24" selection-start="3498" selection-end="3498" vertical-scroll-proportion="0.0" />
@@ -866,13 +878,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/my.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="11" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/my.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="11" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
@@ -887,25 +892,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase05/test/t02/PropertiesReaderTest.java">
+    <entry file="file://$PROJECT_DIR$/src/javase05/t01/DirectoryManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
+        <state line="22" column="53" selection-start="689" selection-end="689" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase05/t02/PropertiesReader.java">
+    <entry file="file://$PROJECT_DIR$/src/javase05/test/t02/PropertiesReaderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="32" selection-start="1031" selection-end="1031" vertical-scroll-proportion="0.0">
+        <state line="19" column="0" selection-start="386" selection-end="572" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase05/t01/DirectoryManager.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/Properties.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="83" selection-start="554" selection-end="554" vertical-scroll-proportion="0.049853373">
+        <state line="56" column="57" selection-start="1432" selection-end="1432" vertical-scroll-proportion="-7.4">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/jre/lib/rt.jar!/com/sun/xml/internal/ws/api/PropertySet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="27" selection-start="1091" selection-end="1102" vertical-scroll-proportion="0.8647215">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/runtime/PropertyMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="48" selection-start="1987" selection-end="1989" vertical-scroll-proportion="-4.52">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="520" column="29" selection-start="18800" selection-end="18800" vertical-scroll-proportion="0.5142119">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/my.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="4" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase05/t02/PropertiesReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="48" selection-start="1031" selection-end="1031" vertical-scroll-proportion="0.5">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase06/test/t02/MapPropertiesReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="48" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase06/t02/MapPropertiesReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="62" selection-start="158" selection-end="158" vertical-scroll-proportion="0.25">
           <folding />
         </state>
       </provider>
