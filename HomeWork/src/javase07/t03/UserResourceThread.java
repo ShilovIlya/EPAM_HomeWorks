@@ -24,10 +24,6 @@ public class UserResourceThread {
         t4.stopThread();
         t5.stopThread();
 
-<<<<<<< HEAD
-
-=======
->>>>>>> d8c76c429f265dc122738f321477800df778ee98
         t1.join();
         t2.join();
         t3.join();
