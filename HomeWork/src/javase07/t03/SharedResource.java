@@ -7,6 +7,7 @@ public class SharedResource {
 
     private List<Integer> list;
 
+
     public SharedResource() {
         this.list = new ArrayList<>();
     }

@@ -55,7 +55,8 @@ public class IntegerSetterGetter extends Thread {
                     waitThreadNum--;
                     System.out.println("Поток " + getName() + " возобновил работу.");
                 } else {
-                    System.out.println("Поток " + getName() + " не смог извлеч число, так как все потоки кроме" +
+                    System.out.println("Поток " + getName() +
+                            " не смог извлеч число, так как все потоки кроме" +
                             " него находятся в ожидании и в коллекции нет элементов для чтения" );
                     return;
                 }
