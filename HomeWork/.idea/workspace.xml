@@ -82,6 +82,9 @@
     <file path="/ConcurrentAccount.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453181194399" ignored="false" />
     <file path="/SynchronizedPropertiesReader.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453183323910" ignored="false" />
     <file path="/SynchronizedPropertiesReaderTest.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453183808993" ignored="false" />
+    <file path="/SharedResource.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453184158872" ignored="false" />
+    <file path="/UserResourceThread.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453188707384" ignored="false" />
+    <file path="/IntegerSetterGetter.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453194292813" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,10 +145,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SynchronizedPropertiesReader.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javase07/t02/SynchronizedPropertiesReader.java">
+      <file leaf-file-name="SharedResource.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase07/t03/SharedResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="45" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
+            <state line="21" column="20" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -153,25 +156,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SynchronizedPropertiesReaderTest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javase07/test/t02/SynchronizedPropertiesReaderTest.java">
+      <file leaf-file-name="UserResourceThread.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase07/t03/UserResourceThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="55" selection-start="1348" selection-end="1348" vertical-scroll-proportion="0.309375">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#513#1034#0" expanded="true" />
-                <element signature="e#1023#1024#0" expanded="true" />
-                <element signature="e#1073#1594#0" expanded="true" />
-                <element signature="e#1583#1584#0" expanded="true" />
-              </folding>
+            <state line="19" column="55" selection-start="681" selection-end="681" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resources/my.properties">
+      <file leaf-file-name="IntegerSetterGetter.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javase07/t03/IntegerSetterGetter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="11" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
+            <state line="58" column="30" selection-start="1851" selection-end="1851" vertical-scroll-proportion="0.5538847">
               <folding />
             </state>
           </provider>
@@ -187,9 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/javase05/test/t02/PropertiesReaderTest.java" />
-        <option value="$PROJECT_DIR$/src/javase06/test/t02/MapPropertiesReader.java" />
-        <option value="$PROJECT_DIR$/src/javase06/t02/MapPropertiesReader.java" />
         <option value="$PROJECT_DIR$/src/javase06/test/t02/MapPropertiesReaderTest.java" />
         <option value="$PROJECT_DIR$/src/javase07/t01/Account.java" />
         <option value="$PROJECT_DIR$/src/javase07/t01/SynchronizedAccount.java" />
@@ -203,6 +197,9 @@
         <option value="$PROJECT_DIR$/src/javase07/t02/SynchronizedPropertiesReader.java" />
         <option value="$PROJECT_DIR$/src/javase07/test/t02/SynchronizedPropertiesReaderTest.java" />
         <option value="$PROJECT_DIR$/src/resources/my.properties" />
+        <option value="$PROJECT_DIR$/src/javase07/t03/SharedResource.java" />
+        <option value="$PROJECT_DIR$/src/javase07/t03/UserResourceThread.java" />
+        <option value="$PROJECT_DIR$/src/javase07/t03/IntegerSetterGetter.java" />
       </list>
     </option>
   </component>
@@ -333,10 +330,6 @@
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="t02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -356,29 +349,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HomeWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HomeWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javase07" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="t02" />
+              <option name="myItemId" value="t03" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -455,24 +426,7 @@
       <recent name="D:\GitHub\EPAM\HomeWork\src\javase01\t01" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SynchronizedPropertiesReaderTest">
-    <configuration default="false" name="FilmSerializable" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="javase04.t04.FilmSerializable" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="HomeWork" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.UserResourceThread">
     <configuration default="false" name="RegexpTask" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="javase03.t03.RegexpTask" />
@@ -527,6 +481,23 @@
     <configuration default="false" name="AccountManager" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="javase07.t01.AccountManager" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="HomeWork" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="UserResourceThread" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="javase07.t03.UserResourceThread" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -848,22 +819,22 @@
       <item index="6" class="java.lang.String" itemvalue="JUnit.javase03.test.t01 in HomeWork" />
       <item index="7" class="java.lang.String" itemvalue="JUnit.CrazyLoggerTest" />
       <item index="8" class="java.lang.String" itemvalue="JUnit.PropertiesReaderTest" />
-      <item index="9" class="java.lang.String" itemvalue="Application.FilmSerializable" />
-      <item index="10" class="java.lang.String" itemvalue="Application.RegexpTask" />
-      <item index="11" class="java.lang.String" itemvalue="Application.L10nQuestions" />
-      <item index="12" class="java.lang.String" itemvalue="Application.DirectoryManager" />
-      <item index="13" class="java.lang.String" itemvalue="JUnit.MapPropertiesReaderTest" />
-      <item index="14" class="java.lang.String" itemvalue="Application.AccountManager" />
-      <item index="15" class="java.lang.String" itemvalue="JUnit.AccountManagerTest" />
-      <item index="16" class="java.lang.String" itemvalue="JUnit.SynchronizedPropertiesReaderTest" />
+      <item index="9" class="java.lang.String" itemvalue="Application.RegexpTask" />
+      <item index="10" class="java.lang.String" itemvalue="Application.L10nQuestions" />
+      <item index="11" class="java.lang.String" itemvalue="Application.DirectoryManager" />
+      <item index="12" class="java.lang.String" itemvalue="JUnit.MapPropertiesReaderTest" />
+      <item index="13" class="java.lang.String" itemvalue="Application.AccountManager" />
+      <item index="14" class="java.lang.String" itemvalue="JUnit.AccountManagerTest" />
+      <item index="15" class="java.lang.String" itemvalue="JUnit.SynchronizedPropertiesReaderTest" />
+      <item index="16" class="java.lang.String" itemvalue="Application.UserResourceThread" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.AccountManager" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DirectoryManager" />
-        <item index="2" class="java.lang.String" itemvalue="Application.L10nQuestions" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RegexpTask" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FilmSerializable" />
+        <item index="0" class="java.lang.String" itemvalue="Application.UserResourceThread" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AccountManager" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DirectoryManager" />
+        <item index="3" class="java.lang.String" itemvalue="Application.L10nQuestions" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RegexpTask" />
       </list>
     </recent_temporary>
   </component>
@@ -930,8 +901,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27272728" sideWeight="0.6115843" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38841566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23863636" sideWeight="0.7240204" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27597955" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1005,29 +976,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/javase06/test/t02/MapPropertiesReaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="48" selection-start="592" selection-end="592" vertical-scroll-proportion="0.6666667">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="11" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="140" column="6" selection-start="4484" selection-end="4484" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/accounts.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="4" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0">
@@ -1124,14 +1072,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javase07/test/t02/SynchronizedPropertiesReaderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="55" selection-start="1348" selection-end="1348" vertical-scroll-proportion="0.309375">
+        <state line="29" column="65" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#513#1034#0" expanded="true" />
             <element signature="e#1023#1024#0" expanded="true" />
-            <element signature="e#1073#1594#0" expanded="true" />
             <element signature="e#1583#1584#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase07/t03/SharedResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="20" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase07/t03/UserResourceThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="55" selection-start="681" selection-end="681" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase07/t03/IntegerSetterGetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="30" selection-start="1851" selection-end="1851" vertical-scroll-proportion="0.5538847">
+          <folding />
         </state>
       </provider>
     </entry>
