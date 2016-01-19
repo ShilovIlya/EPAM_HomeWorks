@@ -94,7 +94,6 @@ public class AccountManager {
                 accountChangers.get(i).start();
             }
 
-
             for (int i = 0; i < changerNum; i++) {
                 accountChangers.get(i).join();
             }
@@ -114,29 +113,33 @@ public class AccountManager {
         try (BufferedReader file = new BufferedReader(new FileReader(new File(".\\src\\resources\\accounts.txt")))) {
 
             Integer accountBalance1 = new Integer(file.readLine());
-            NotThreadSafeAccount account1 = new NotThreadSafeAccount(accountBalance1);
+            ConcurrentAccount account1 = new ConcurrentAccount(accountBalance1);
             Integer accountBalance2 = new Integer(file.readLine());
-            NotThreadSafeAccount account2 = new NotThreadSafeAccount(accountBalance2);
+            ConcurrentAccount account2 = new ConcurrentAccount(accountBalance2);
 
             System.out.println("Start : balance1 = " + account1.getBalance() + ", balance2 = " + account2.getBalance());
 
             String operation;
             int changerNum = 0;
-            ExecutorService executor = Executors.newCachedThreadPool();
-            while ((operation = file.readLine()) != null) {
+            ArrayList<AccountChanger> accountChangers = new ArrayList<>();
 
+            while ((operation = file.readLine()) != null) {
                 Integer value = new Integer(operation);
                 if (value > 0) {
-                    executor.execute(new AccountChanger(account1, account2, value));
+                    accountChangers.add(new AccountChanger(account1, account2, value));
                 } else {
-                    executor.execute(new AccountChanger(account2, account1, -value));
+                    accountChangers.add(new AccountChanger(account2, account1, -value));
                 }
                 changerNum++;
             }
 
-            executor.shutdown();
-            executor.awaitTermination(1, TimeUnit.DAYS);
+            for (int i = 0; i < changerNum; i++) {
+                accountChangers.get(i).start();
+            }
 
+            for (int i = 0; i < changerNum; i++) {
+                accountChangers.get(i).join();
+            }
             System.out.println("End : balance1 = " + account1.getBalance() + "; balance2 = " + account2.getBalance());
 
         } catch (IOException e) {

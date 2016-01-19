@@ -1,6 +1,6 @@
 package javase07.t01;
 
-public class AccountChanger extends Thread {
+public class AccountChanger extends Thread{
 
     private Account account1;
     private Account account2;

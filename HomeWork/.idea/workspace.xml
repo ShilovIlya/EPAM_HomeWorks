@@ -72,12 +72,14 @@
     <file path="/my.txt" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1452865819471" ignored="false" />
     <file path="/MapPropertiesReader.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453049488247" ignored="false" />
     <file path="/SynchronizedAccount.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453136257982" ignored="false" />
-    <file path="/AccountManager.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453143053673" ignored="false" />
+    <file path="/AccountManager.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453181217481" ignored="false" />
     <file path="/accounts.txt" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453133204971" ignored="false" />
-    <file path="/AccountChanger.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453143100433" ignored="false" />
+    <file path="/AccountChanger.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453181279397" ignored="false" />
     <file path="/Account.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453135335527" ignored="false" />
-    <file path="/NotThreadSafeAccount.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453142577013" ignored="false" />
+    <file path="/NotThreadSafeAccount.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453178637467" ignored="false" />
     <file path="/AccountManagerTest.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453138142590" ignored="false" />
+    <file path="/LockAccountChanger.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453180911428" ignored="false" />
+    <file path="/ConcurrentAccount.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453181194399" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +143,7 @@
       <file leaf-file-name="SynchronizedAccount.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javase07/t01/SynchronizedAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="62" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0">
+            <state line="32" column="7" selection-start="56" selection-end="742" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -150,25 +152,16 @@
       <file leaf-file-name="NotThreadSafeAccount.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javase07/t01/NotThreadSafeAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="83" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
+            <state line="11" column="44" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="accounts.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resources/accounts.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="3" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AccountManager.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="AccountManager.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javase07/t01/AccountManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="133" column="95" selection-start="5176" selection-end="5176" vertical-scroll-proportion="0.78869045">
+            <state line="139" column="58" selection-start="5352" selection-end="5352" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -179,7 +172,7 @@
       <file leaf-file-name="AccountManagerTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javase07/test/t01/AccountManagerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="8" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0">
+            <state line="22" column="28" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -190,7 +183,36 @@
       <file leaf-file-name="AccountChanger.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javase07/t01/AccountChanger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="43" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
+            <state line="14" column="23" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcurrentAccount.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase07/t01/ConcurrentAccount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="47" selection-start="615" selection-end="615" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Account.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase07/t01/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="52" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="accounts.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/resources/accounts.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="4" selection-start="37" selection-end="37" vertical-scroll-proportion="0.4903846">
               <folding />
             </state>
           </provider>
@@ -206,8 +228,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/javase05/t01/ControlKeyException.java" />
-        <option value="$PROJECT_DIR$/src/javase05/t01/DirectoryManager.java" />
         <option value="$PROJECT_DIR$/my.txt" />
         <option value="$PROJECT_DIR$/src/javase05/t02/PropertiesReader.java" />
         <option value="$PROJECT_DIR$/src/javase05/test/t02/PropertiesReaderTest.java" />
@@ -217,11 +237,13 @@
         <option value="$PROJECT_DIR$/src/javase06/test/t02/MapPropertiesReaderTest.java" />
         <option value="$PROJECT_DIR$/src/javase07/t01/Account.java" />
         <option value="$PROJECT_DIR$/src/javase07/t01/SynchronizedAccount.java" />
-        <option value="$PROJECT_DIR$/src/resources/accounts.txt" />
-        <option value="$PROJECT_DIR$/src/javase07/t01/NotThreadSafeAccount.java" />
-        <option value="$PROJECT_DIR$/src/javase07/test/t01/AccountManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/javase07/t01/LockAccountChanger.java" />
+        <option value="$PROJECT_DIR$/src/javase07/t01/ConcurrentAccount.java" />
         <option value="$PROJECT_DIR$/src/javase07/t01/AccountManager.java" />
         <option value="$PROJECT_DIR$/src/javase07/t01/AccountChanger.java" />
+        <option value="$PROJECT_DIR$/src/javase07/t01/NotThreadSafeAccount.java" />
+        <option value="$PROJECT_DIR$/src/javase07/test/t01/AccountManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/resources/accounts.txt" />
       </list>
     </option>
   </component>
@@ -372,24 +394,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="t01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HomeWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HomeWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javase06" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -885,7 +889,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -900,8 +904,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20227273" sideWeight="0.49574107" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38330495" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21818182" sideWeight="0.6115843" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38841566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -975,20 +979,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/jre/lib/rt.jar!/com/sun/xml/internal/ws/api/PropertySet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="27" selection-start="1091" selection-end="1102" vertical-scroll-proportion="0.8647215">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/runtime/PropertyMap.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="48" selection-start="1987" selection-end="1989" vertical-scroll-proportion="-4.52">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/Hashtable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="520" column="29" selection-start="18800" selection-end="18800" vertical-scroll-proportion="0.5142119">
@@ -1037,27 +1027,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase07/t01/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="52" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/accounts.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="3" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase07/t01/NotThreadSafeAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="83" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="140" column="6" selection-start="4484" selection-end="4484" vertical-scroll-proportion="0.33333334">
@@ -1065,35 +1034,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase07/t01/SynchronizedAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="7" selection-start="56" selection-end="742" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase07/t01/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="52" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase07/t01/ConcurrentAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="47" selection-start="615" selection-end="615" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase07/t01/AccountManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="139" column="58" selection-start="5352" selection-end="5352" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/javase07/t01/AccountChanger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="43" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
+        <state line="14" column="23" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase07/t01/NotThreadSafeAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="44" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javase07/test/t01/AccountManagerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="8" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0">
+        <state line="22" column="28" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase07/t01/SynchronizedAccount.java">
+    <entry file="file://$PROJECT_DIR$/src/resources/accounts.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="62" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0">
+        <state line="9" column="4" selection-start="37" selection-end="37" vertical-scroll-proportion="0.4903846">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase07/t01/AccountManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="133" column="95" selection-start="5176" selection-end="5176" vertical-scroll-proportion="0.78869045">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
