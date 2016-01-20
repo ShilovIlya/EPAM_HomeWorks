@@ -7,7 +7,7 @@
     <file path="/Main.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448307070101" ignored="false" />
     <file path="/t01Main.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448307171010" ignored="false" />
     <file path="/MinN.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448484807298" ignored="false" />
-    <file path="/fragment.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453182133932" ignored="false" />
+    <file path="/fragment.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453307133509" ignored="false" />
     <file path="/FxTable.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448484889060" ignored="false" />
     <file path="/MaxSum2InArr.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448630571479" ignored="false" />
     <file path="/Xmatrix.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1448486072939" ignored="false" />
@@ -86,6 +86,21 @@
     <file path="/UserResourceThread.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453188707384" ignored="false" />
     <file path="/IntegerSetterGetter.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453194292813" ignored="false" />
     <file path="/FirstJDBCWork.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453220003160" ignored="false" />
+    <file path="/db.properties" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453271336861" ignored="false" />
+    <file path="/DBResourceManager.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453305423146" ignored="false" />
+    <file path="/DBParametr.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453305418098" ignored="false" />
+    <file path="/ConnectionPoolException.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453305413280" ignored="false" />
+    <file path="/ConnectionPool.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453305399118" ignored="false" />
+    <file path="/HomeLibrariManager.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453280667527" ignored="false" />
+    <file path="/DBConnection.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453310891897" ignored="false" />
+    <file path="/HomeLibraryManager.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453312652256" ignored="false" />
+    <file path="/Book.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453305437122" ignored="false" />
+    <file path="/Author.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453305432354" ignored="false" />
+    <file path="/Genre.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453305442500" ignored="false" />
+    <file path="/Library.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453305553889" ignored="false" />
+    <file path="/DAOLibrary.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453310892568" ignored="false" />
+    <file path="/DAOLibraryException.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453307722886" ignored="false" />
+    <file path="/home_library_sql.txt" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453313373952" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,13 +161,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FirstJDBCWork.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javase10/t01/FirstJDBCWork.java">
+      <file leaf-file-name="HomeLibraryManager.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javase10/t02/HomeLibraryManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="26" selection-start="442" selection-end="442" vertical-scroll-proportion="-1.1890411">
+            <state line="21" column="44" selection-start="621" selection-end="621" vertical-scroll-proportion="0.83411217">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home_library_sql.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/home_library_sql.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="59" selection-start="795" selection-end="795" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilmSerializable.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase04/t04/FilmSerializable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="56" selection-start="569" selection-end="625" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DAOLibrary.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase10/t02/DAOLibrary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="41" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DAOLibraryException.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase10/t02/DAOLibraryException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="26" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -167,24 +218,27 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/javase07/t01/Account.java" />
-        <option value="$PROJECT_DIR$/src/javase07/t01/SynchronizedAccount.java" />
-        <option value="$PROJECT_DIR$/src/javase07/t01/LockAccountChanger.java" />
-        <option value="$PROJECT_DIR$/src/javase07/t01/ConcurrentAccount.java" />
-        <option value="$PROJECT_DIR$/src/javase07/t01/AccountManager.java" />
-        <option value="$PROJECT_DIR$/src/javase07/t01/AccountChanger.java" />
-        <option value="$PROJECT_DIR$/src/javase07/t01/NotThreadSafeAccount.java" />
-        <option value="$PROJECT_DIR$/src/javase07/test/t01/AccountManagerTest.java" />
-        <option value="$PROJECT_DIR$/src/resources/accounts.txt" />
-        <option value="$PROJECT_DIR$/src/javase07/t02/SynchronizedPropertiesReader.java" />
-        <option value="$PROJECT_DIR$/src/javase07/test/t02/SynchronizedPropertiesReaderTest.java" />
-        <option value="$PROJECT_DIR$/src/resources/my.properties" />
-        <option value="$PROJECT_DIR$/src/javase07/t03/IntegerSetterGetter.java" />
-        <option value="$PROJECT_DIR$/src/javase07/t03/UserResourceThread.java" />
-        <option value="$PROJECT_DIR$/src/javase07/t03/SharedResource.java" />
-        <option value="$PROJECT_DIR$/src/javase10/t01/FirstJDBCWork.java" />
+        <option value="$PROJECT_DIR$/src/javase10/t02/Book.java" />
+        <option value="$PROJECT_DIR$/src/javase10/t02/Author.java" />
+        <option value="$PROJECT_DIR$/src/javase10/t02/Library.java" />
+        <option value="$PROJECT_DIR$/src/javase10/t02/connectionpool/ConnectionPool.java" />
+        <option value="$PROJECT_DIR$/src/javase10/t02/connectionpool/ConnectionPoolException.java" />
+        <option value="$PROJECT_DIR$/src/javase10/t02/connectionpool/DBParametr.java" />
+        <option value="$PROJECT_DIR$/src/javase10/t02/connectionpool/DBResourceManager.java" />
+        <option value="$PROJECT_DIR$/src/javase10/t02/library/Author.java" />
+        <option value="$PROJECT_DIR$/src/javase10/t02/library/Book.java" />
+        <option value="$PROJECT_DIR$/src/javase10/t02/library/Genre.java" />
+        <option value="$PROJECT_DIR$/src/javase10/t02/library/Library.java" />
+        <option value="$PROJECT_DIR$/src/javase10/t02/DBConnection.java" />
+        <option value="$PROJECT_DIR$/src/javase10/t02/DAOLibraryException.java" />
+        <option value="$PROJECT_DIR$/src/javase10/t02/DAOLibrary.java" />
+        <option value="$PROJECT_DIR$/src/javase10/t02/HomeLibraryManager.java" />
+        <option value="$PROJECT_DIR$/src/resources/home_library_sql.txt" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -305,6 +359,10 @@
               <option name="myItemId" value="javase10" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -321,10 +379,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="javase10" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="t01" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -363,6 +417,9 @@
       <recent name="D:\GitHub\EPAM\HomeWork\src\resources" />
       <recent name="D:\GitHub\EPAM\HomeWork\src" />
       <recent name="D:\GitHub\EPAM\HomeWork\src\javase03\t03" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="javase10.t02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GitHub\EPAM\HomeWork\src\javase03\t02\resources" />
@@ -782,6 +839,11 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
@@ -842,10 +904,10 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33730835" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.66609883" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23863636" sideWeight="0.66609883" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3339012" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23863636" sideWeight="0.7734242" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2265758" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -919,130 +981,121 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/javase07/t01/AccountManager.java">
+    <entry file="file://$PROJECT_DIR$/src/javase05/t01/ControlKeyException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="139" column="58" selection-start="5352" selection-end="5352" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase07/t01/NotThreadSafeAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="44" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase07/t01/SynchronizedAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="28" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase07/t01/ConcurrentAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="47" selection-start="615" selection-end="615" vertical-scroll-proportion="1.4166666">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase07/test/t01/AccountManagerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="28" selection-start="544" selection-end="544" vertical-scroll-proportion="0.8618619">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase05/t02/PropertiesReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="13" selection-start="443" selection-end="443" vertical-scroll-proportion="0.33333334">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase07/t01/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="52" selection-start="109" selection-end="109" vertical-scroll-proportion="0.2042042">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase05/test/t02/PropertiesReaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="35" selection-start="590" selection-end="590" vertical-scroll-proportion="0.296875" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/my.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="11" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase07/t02/SynchronizedPropertiesReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="45" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase07/test/t02/SynchronizedPropertiesReaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="65" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#513#1034#0" expanded="true" />
-            <element signature="e#1023#1024#0" expanded="true" />
-            <element signature="e#1583#1584#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/sql/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="81" selection-start="5283" selection-end="5283" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase07/t03/IntegerSetterGetter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="43" selection-start="458" selection-end="458" vertical-scroll-proportion="0.09315068">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase07/t03/UserResourceThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="807" selection-end="807" vertical-scroll-proportion="0.74520546">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase07/t03/SharedResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="138" selection-end="138" vertical-scroll-proportion="0.3260274">
+        <state line="7" column="13" selection-start="107" selection-end="107" vertical-scroll-proportion="0.16707617">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javase10/t01/FirstJDBCWork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="26" selection-start="442" selection-end="442" vertical-scroll-proportion="-1.1890411">
+        <state line="46" column="12" selection-start="1871" selection-end="2167" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase03/t02/L10nQuestions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="69" selection-start="426" selection-end="426" vertical-scroll-proportion="-0.74065423">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase04/t04/FilmCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="49" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase10/t02/connectionpool/DBResourceManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="85" selection-end="85" vertical-scroll-proportion="0.16707617">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase10/t02/connectionpool/DBParametr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="51" selection-end="51" vertical-scroll-proportion="0.083538085">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase10/t02/connectionpool/ConnectionPoolException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="4" selection-start="100" selection-end="248" vertical-scroll-proportion="0.16707617">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase10/t02/connectionpool/ConnectionPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="47" selection-start="341" selection-end="341" vertical-scroll-proportion="0.5177665">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase10/t02/library/Author.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="272" selection-end="272" vertical-scroll-proportion="0.58476657">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase10/t02/library/Genre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="44" selection-end="44" vertical-scroll-proportion="0.083538085">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase10/t02/library/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="44" selection-end="44" vertical-scroll-proportion="0.083538085">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase04/t04/FilmSerializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="56" selection-start="569" selection-end="625" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/home_library_sql.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="59" selection-start="795" selection-end="795" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase10/t02/DAOLibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="41" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase10/t02/DAOLibraryException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="26" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase10/t02/HomeLibraryManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="44" selection-start="621" selection-end="621" vertical-scroll-proportion="0.83411217">
+          <folding />
         </state>
       </provider>
     </entry>

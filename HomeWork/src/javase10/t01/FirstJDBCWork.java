@@ -1,7 +1,5 @@
 package javase10.t01;
 
-import com.mysql.jdbc.*;
-
 import java.sql.*;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -41,7 +39,7 @@ public class FirstJDBCWork {
 
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/home_library", "root", "root");
+            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/home_library?useSSL=false", "root", "root");
 
             preparedStatement = connection.prepareStatement("SELECT * FROM genres WHERE id_genre > ? OR genre = ?");
             preparedStatement.setInt(1, 2);

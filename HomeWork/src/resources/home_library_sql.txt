@@ -1,0 +1,14 @@
+CREATE database home_library;
+CREATE table genres (id_genre int(10) AUTO_INCREMENT, genre varchar(20));
+CREATE table authors (id_author int(10) AUTO_INCREMENT, author varchar(20), country varchar(20));
+CREATE table books (id_book int(10) AUTO_INCREMENT, book varchar(40), id_author int(10), id_genre(10));
+INSERT INTO genres VALUES ("novel");
+INSERT INTO genres VALUES ("poem");
+INSERT INTO genres VALUES ("drama");
+INSERT INTO genres VALUES ("fable");
+INSERT INTO authors VALUES ("A.S.Pushkin","Russia");
+INSERT INTO authors VALUES ("F.M.Dostoyevsky","Russia");
+INSERT INTO books VALUES ("Ruslan & Ludmila", "1", "2");
+INSERT INTO books VALUES ("Malenkie tragedii", "1", "3");
+INSERT INTO books VALUES ("Kapitanskay dochka", "1", "1");
+INSERT INTO books VALUES ("Skazka o medvedice", "1", "4");
