@@ -14,6 +14,11 @@ public class Book {
         this.genre = genre;
     }
 
+    @Override
+    public String toString() {
+        return "Book - " + "\"" + name + "\"" + ", author - " + author + ", genre - " + genre;
+    }
+
     public int getId() {
         return id;
     }

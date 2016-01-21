@@ -16,7 +16,13 @@ public class DAOLibraryException extends Exception {
 
     @Override
     public String toString() {
-        return message + " parent exception is " + parent;
+        return message;
     }
+
+    @Override
+    public void printStackTrace() {
+        parent.printStackTrace();
+    }
+
 
 }

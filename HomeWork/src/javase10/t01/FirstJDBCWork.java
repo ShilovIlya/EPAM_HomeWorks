@@ -33,7 +33,7 @@ public class FirstJDBCWork {
         ResultSet resultSet = null;
         String updateQuery1 = "UPDATE books SET book=\"Ruslan i Ludmila\" WHERE id_book =1";
         String updateQuery2 = "UPDATE books SET book=\"Skazki\" WHERE id_book =4";
-        String newRecord = "INSERT INTO genres VALUES(\"5\", \"short story\")";
+        String newRecord = "INSERT INTO genres (genre) VALUES(\"short story\")";
         String newTable = "CREATE TABLE newtable (id_word int(10), word varchar(20))";
         String deleteNewTable = "DROP table newtable";
 
