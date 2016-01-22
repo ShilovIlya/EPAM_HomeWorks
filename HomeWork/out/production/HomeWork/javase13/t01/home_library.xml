@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<home_library
+        xmlns="http://homework.ru/home_library"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://homework.ru/home_library home_library.xsd">
+    <authors>
+        <author id="a1">
+            <author_name>A.S.Pushkin</author_name>
+            <country>Russia</country>
+        </author>
+        <author id="a2">
+            <author_name>F.M.Dostoyevsky</author_name>
+            <country>Russia</country>
+        </author>
+    </authors>
+    <books>
+        <book language="ru" id="b1">
+            <name>Ruslan i Ludmila</name>
+            <id_author>1</id_author>
+            <genre>poem</genre>
+            <publish_year>1980</publish_year>
+        </book>
+        <book language="ru" id="b2">
+            <name>Malenkie tragedii</name>
+            <id_author>1</id_author>
+            <genre>drama</genre>
+            <publish_year>1993</publish_year>
+        </book>
+        <book language="eng" id="b3">
+            <name>Kapitanskay dochka</name>
+            <id_author>1</id_author>
+            <genre>novel</genre>
+            <publish_year>1975</publish_year>
+        </book>
+    </books>
+</home_library>

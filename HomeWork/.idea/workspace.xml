@@ -103,6 +103,15 @@
     <file path="/home_library_sql.txt" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453350846876" ignored="false" />
     <file path="/home_library.xml" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453378840201" ignored="false" />
     <file path="/home_library.xsd" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453378792854" ignored="false" />
+    <file path="/Food.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453437593377" ignored="false" />
+    <file path="/menu.xml" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453397149297" ignored="false" />
+    <file path="/SAXFoodReader.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453441396677" ignored="false" />
+    <file path="/XMLAnalyzeManager.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453442631674" ignored="false" />
+    <file path="/ErrorHandler.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453398023199" ignored="false" />
+    <file path="/MenuTagName.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453436496334" ignored="false" />
+    <file path="/MenuSaxHandler.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453439283297" ignored="false" />
+    <file path="/StAXFoodReader.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453441148828" ignored="false" />
+    <file path="/DOMFoodReader.java" changelist="9b034a2a-483d-4e48-8d85-acfbbff2d4a1" time="1453442673440" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +126,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -154,6 +162,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -163,19 +172,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home_library.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javase13/t01/home_library.xml">
+      <file leaf-file-name="SAXFoodReader.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase13/t02/SAX/SAXFoodReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="54" selection-start="604" selection-end="604" vertical-scroll-proportion="0.6554217">
+            <state line="39" column="26" selection-start="1178" selection-end="1178" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Food.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase13/t02/Food.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="47" selection-start="885" selection-end="885" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home_library.xsd" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javase13/t01/home_library.xsd">
+      <file leaf-file-name="MenuTagName.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase13/t02/MenuTagName.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="56" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
+            <state line="7" column="42" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StAXFoodReader.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase13/t02/StAX/StAXFoodReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="57" selection-start="1061" selection-end="1061" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DOMFoodReader.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase13/t02/DOM/DOMFoodReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="26" selection-start="1553" selection-end="1553" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MenuSaxHandler.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase13/t02/SAX/MenuSaxHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="73" selection-start="793" selection-end="793" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ErrorHandler.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase13/t02/ErrorHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="41" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XMLAnalyzeManager.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javase13/t02/XMLAnalyzeManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="50" selection-start="527" selection-end="527" vertical-scroll-proportion="0.4878587">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javase13/t02/menu.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="44" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -191,22 +273,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/javase10/t02/connectionpool/ConnectionPoolException.java" />
-        <option value="$PROJECT_DIR$/src/javase10/t02/connectionpool/DBParametr.java" />
-        <option value="$PROJECT_DIR$/src/javase10/t02/connectionpool/DBResourceManager.java" />
-        <option value="$PROJECT_DIR$/src/javase10/t02/library/Author.java" />
-        <option value="$PROJECT_DIR$/src/javase10/t02/library/Genre.java" />
-        <option value="$PROJECT_DIR$/src/javase10/t02/library/Library.java" />
-        <option value="$PROJECT_DIR$/src/javase10/t02/DBConnection.java" />
-        <option value="$PROJECT_DIR$/src/resources/home_library_sql.txt" />
-        <option value="$PROJECT_DIR$/src/javase10/t01/FirstJDBCWork.java" />
-        <option value="$PROJECT_DIR$/src/javase10/t02/library/Book.java" />
         <option value="$PROJECT_DIR$/src/resources/db.properties" />
         <option value="$PROJECT_DIR$/src/javase10/t02/DAOLibraryException.java" />
         <option value="$PROJECT_DIR$/src/javase10/t02/DAOLibrary.java" />
         <option value="$PROJECT_DIR$/src/javase10/t02/HomeLibraryManager.java" />
         <option value="$PROJECT_DIR$/src/javase13/t01/home_library.xml" />
         <option value="$PROJECT_DIR$/src/javase13/t01/home_library.xsd" />
+        <option value="$PROJECT_DIR$/src/javase13/t02/ErrorHandler.java" />
+        <option value="$PROJECT_DIR$/src/javase13/t02/MenuTagName.java" />
+        <option value="$PROJECT_DIR$/src/javase13/t02/Food.java" />
+        <option value="$PROJECT_DIR$/src/javase13/t02/menu.xml" />
+        <option value="$PROJECT_DIR$/src/javase13/t02/MenuSaxHandler.java" />
+        <option value="$PROJECT_DIR$/src/javase13/t02/SAXFoodReader.java" />
+        <option value="$PROJECT_DIR$/src/javase13/t02/XMLAnalyzeManager.java" />
+        <option value="$PROJECT_DIR$/src/javase13/t02/StAX/StAXFoodReader.java" />
+        <option value="$PROJECT_DIR$/src/javase13/t02/SAX/SAXFoodReader.java" />
+        <option value="$PROJECT_DIR$/src/javase13/t02/DOM/DOMFoodReader.java" />
       </list>
     </option>
   </component>
@@ -282,7 +364,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -332,6 +413,10 @@
               <option name="myItemId" value="javase13" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -351,13 +436,88 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="t01" />
+              <option name="myItemId" value="t02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StAX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javase13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SAX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javase13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="t02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DOM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javase13" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -399,24 +559,7 @@
       <recent name="D:\GitHub\EPAM\HomeWork\src\javase01\t01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HomeLibraryManager">
-    <configuration default="false" name="DirectoryManager" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="javase05.t01.DirectoryManager" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="HomeWork" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.XMLAnalyzeManager">
     <configuration default="false" name="AccountManager" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="javase07.t01.AccountManager" />
@@ -471,6 +614,23 @@
     <configuration default="false" name="HomeLibraryManager" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="javase10.t02.HomeLibraryManager" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="HomeWork" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="XMLAnalyzeManager" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="javase13.t02.XMLAnalyzeManager" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -795,19 +955,19 @@
       <item index="9" class="java.lang.String" itemvalue="JUnit.MapPropertiesReaderTest" />
       <item index="10" class="java.lang.String" itemvalue="JUnit.AccountManagerTest" />
       <item index="11" class="java.lang.String" itemvalue="JUnit.SynchronizedPropertiesReaderTest" />
-      <item index="12" class="java.lang.String" itemvalue="Application.DirectoryManager" />
-      <item index="13" class="java.lang.String" itemvalue="Application.AccountManager" />
-      <item index="14" class="java.lang.String" itemvalue="Application.UserResourceThread" />
-      <item index="15" class="java.lang.String" itemvalue="Application.FirstJDBCWork" />
-      <item index="16" class="java.lang.String" itemvalue="Application.HomeLibraryManager" />
+      <item index="12" class="java.lang.String" itemvalue="Application.AccountManager" />
+      <item index="13" class="java.lang.String" itemvalue="Application.UserResourceThread" />
+      <item index="14" class="java.lang.String" itemvalue="Application.FirstJDBCWork" />
+      <item index="15" class="java.lang.String" itemvalue="Application.HomeLibraryManager" />
+      <item index="16" class="java.lang.String" itemvalue="Application.XMLAnalyzeManager" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.HomeLibraryManager" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FirstJDBCWork" />
-        <item index="2" class="java.lang.String" itemvalue="Application.UserResourceThread" />
-        <item index="3" class="java.lang.String" itemvalue="Application.AccountManager" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DirectoryManager" />
+        <item index="0" class="java.lang.String" itemvalue="Application.XMLAnalyzeManager" />
+        <item index="1" class="java.lang.String" itemvalue="Application.HomeLibraryManager" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FirstJDBCWork" />
+        <item index="3" class="java.lang.String" itemvalue="Application.UserResourceThread" />
+        <item index="4" class="java.lang.String" itemvalue="Application.AccountManager" />
       </list>
     </recent_temporary>
   </component>
@@ -874,13 +1034,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32027256" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24872231" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.09199318" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.66609883" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17878787" sideWeight="0.7512777" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16112085" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2189394" sideWeight="0.85178876" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14821124" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -954,123 +1114,123 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/javase10/t02/connectionpool/DBParametr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase10/t02/connectionpool/ConnectionPoolException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="10" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/db.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="62" selection-start="96" selection-end="96" vertical-scroll-proportion="0.05230769">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase10/t02/connectionpool/DBResourceManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="85" selection-end="85" vertical-scroll-proportion="0.15895954">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/sql/mysql-connector-java-5.1.38/mysql-connector-java-5.1.38-bin.jar!/com/mysql/jdbc/ResultSetImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="602" column="0" selection-start="34534" selection-end="34534" vertical-scroll-proportion="-6.48">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/sql/mysql-connector-java-5.1.38/mysql-connector-java-5.1.38-bin.jar!/com/mysql/jdbc/SQLError.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="134" column="0" selection-start="10955" selection-end="10955" vertical-scroll-proportion="1.8876405">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/concurrent/BlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="261" column="6" selection-start="9996" selection-end="9996" vertical-scroll-proportion="0.33221477">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase10/t02/connectionpool/ConnectionPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="84" selection-start="2836" selection-end="2836" vertical-scroll-proportion="1.2189542">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="276" column="21" selection-start="10182" selection-end="10188" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase10/t02/HomeLibraryManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="101" selection-start="2002" selection-end="2002" vertical-scroll-proportion="0.10660981">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase10/t02/DAOLibraryException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="476" selection-end="476" vertical-scroll-proportion="0.6012793">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javase10/t02/DAOLibrary.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="175" column="39" selection-start="6334" selection-end="6334" vertical-scroll-proportion="0.48614073">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/home_library_sql.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="40" selection-start="1176" selection-end="1176" vertical-scroll-proportion="0.54371">
-          <folding />
-        </state>
+        <state line="15" column="40" selection-start="1176" selection-end="1176" vertical-scroll-proportion="0.54371" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javase10/t01/FirstJDBCWork.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="80" selection-start="927" selection-end="927" vertical-scroll-proportion="0.7249467">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javase13/t01/home_library.xsd">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="56" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="5" column="56" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javase13/t01/home_library.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="54" selection-start="604" selection-end="604" vertical-scroll-proportion="0.6554217">
+        <state line="16" column="54" selection-start="604" selection-end="604" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase13/t02/ErrorHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="41" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase13/t02/menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="44" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase07/t01/AccountManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="47" selection-start="722" selection-end="722" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase13/t02/MenuTagName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="42" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase13/t02/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="47" selection-start="885" selection-end="885" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/com/sun/org/apache/xerces/internal/impl/XMLStreamReaderImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1077" column="0" selection-start="43704" selection-end="43704" vertical-scroll-proportion="0.76857144">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase13/t02/SAX/MenuSaxHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="73" selection-start="793" selection-end="793" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase13/t02/StAX/StAXFoodReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="57" selection-start="1061" selection-end="1061" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase13/t02/SAX/SAXFoodReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="26" selection-start="1178" selection-end="1178" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase13/t02/DOM/DOMFoodReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="26" selection-start="1553" selection-end="1553" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javase13/t02/XMLAnalyzeManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="50" selection-start="527" selection-end="527" vertical-scroll-proportion="0.4878587">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
